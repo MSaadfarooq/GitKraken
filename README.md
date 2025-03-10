@@ -14,7 +14,7 @@ Simply fire up RStudio for trying out your R code, or Spyder for your Python cod
 
 
 ##Getting help
-
+https://carpentries-incubator.github.io/open-science-with-r/09-collaborating/index.html
 
 ## Contributors
 Contributions and references are included in the source code files.
