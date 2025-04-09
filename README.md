@@ -21,3 +21,7 @@ Contributions and references are included in the source code files.
 ## Licensing
 
 This is all available as CC BY 4.0 license. Enjoy!
+
+```         
+git config --global user.email "you@example.com"   git config --global user.name "Your Name"
+```
